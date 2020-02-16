@@ -85,5 +85,5 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-hacker
 
