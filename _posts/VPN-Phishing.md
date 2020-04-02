@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Bản tin bảo mật #1] Chiến dịch VPN phishing nhắm vào những người “làm việc remote”
+title: Bản tin bảo mật #1 - Chiến dịch VPN phishing nhắm vào những người 'làm việc remote'
 ---
 
 Do ảnh hưởng của covid-19, nhu cầu làm việc remote thời gian gần đây đã tăng một cách đột biến, điều này tiềm ẩn nhiều nguy cơ mới về tấn công mạng. Một số công ty đã triển khai các hệ thống VPN để đảm bảo an toàn cho nhân viên khi làm việc từ xa. Hiện nay các tin tặc đã lợi dụng kịch bản này để thực hiện gửi các email mạo danh là nhân viên IT helpdesk lừa đảo người dùng nhân viên các công ty truy cập vào trang web giả mạo để download các phần mềm VPN chứa mã độc. Dưới đây là một ví dụ của chiến dịch phishing này:
